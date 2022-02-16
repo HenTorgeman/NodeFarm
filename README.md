@@ -3,4 +3,5 @@
  
  The project builds web, by Node and reading the DB from JASON files.
  
- ![NodeFarm.gif]
+ 
+ ![](NodeFarm.gif)
